@@ -215,7 +215,7 @@ div&gt;
     background-color: rgb(203, 0, 0)
 }
 
-.adG&gt;
+.adG>
 .closeAd {
     position: absolute;
     top: 1px;
@@ -592,8 +592,8 @@ body .wrapper .vh-pages-wrapper a:hover {
     border-radius: 0 0 3px 3px
 }
 
-.content-site&gt;
-.inside&gt;
+.content-site>
+.inside>
 .padding {
     padding: 0;
     position: relative;
@@ -607,8 +607,8 @@ h2.module_title span {
     font-weight: bold
 }
 
-.sectionTop&gt;
-div&gt;
+.sectionTop>
+div>
 i {
     display: none
 }
