@@ -145,8 +145,8 @@
     box-sizing: border-box
 }
 
-.sectionTop li&gt;
-div&gt;
+.sectionTop li>
+div>
 * {
     box-sizing: border-box;
     position: relative
@@ -583,7 +583,7 @@ body .wrapper .vh-pages-wrapper a:hover {
     z-index: 10
 }
 
-.content-site&gt;
+.content-site>
 .inside {
     min-height: 600px;
     width: 1200px;
